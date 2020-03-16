@@ -216,8 +216,7 @@ public class WorkoutTimerVisual {
 			} catch (URISyntaxException e) {
 				
 			}
-			audioFile = new File(jarFile1.getParentFile().getAbsolutePath());
-			path = audioFile.getPath() + "/audio/";
+			path = jarFile1.getParentFile().getAbsolutePath() + "/audio/" + nameOfAudioFile;
 			audioFile = new File(path);
 			
 		} else {
@@ -229,17 +228,16 @@ public class WorkoutTimerVisual {
 			}
 		}
 		try {
-			InputStream sound = new FileInputStream(audioFile);
 			AudioInputStream soundStream = AudioSystem.getAudioInputStream(audioFile);
 			Clip clip;
 			clip = AudioSystem.getClip();
+			clip.open(soundStream);
 			clip.start();
 			clip.wait(3000);
 			clip.close();
 			alreadyPlayingAudio = false;
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		
 		}
 		
 	}
