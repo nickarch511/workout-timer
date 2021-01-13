@@ -23,3 +23,4 @@ on the format of input files.
    
    
 *** Check out my code if you would like to see how this was implemented! Keep in mind, this was one of my first projects :D ***
+Note: the code for the GUI is in WorkoutTimer/
