@@ -13,7 +13,7 @@ on the format of input files.
 1) Main Timer— a continous timer that can be paused and restarted without fail. This timer will switch between
    exercises when the time for a given exercise is up. This is the main functionality of the program.
    
-2) Sound— this timer will beep at the end of each exercise and a long beep will sound at the entire workout
+2) Sound— this timer will beep at the end of each exercise and a long beep will sound at the end of the entire workout
 
 3) GUI— The graphical user interface allows for seamless use of the timer as explained in the introduction
 
