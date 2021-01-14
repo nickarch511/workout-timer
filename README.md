@@ -3,7 +3,6 @@
 Welcome to my workout timer project!
 
 This was a fun little coding project I started right after taking my first computer science course (CMSC131). 
-The code may be a little messy, but the timer runs fine!
 
 This timer is equipped with a GUI that allows a use to input a workout manually, or navigate to a text
 file of a given form that would do this. Check out some of the pre-defined workouts for more info 
