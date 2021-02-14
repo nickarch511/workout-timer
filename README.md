@@ -1,5 +1,5 @@
 
-**INTRODUCTION** 
+##**INTRODUCTION** 
 
 Welcome to my workout timer project!
 
@@ -11,7 +11,7 @@ on the format of input files.
 
 Please watch this video for a functionality demonstration: https://youtu.be/-JzXZLBemjU
 
-**FUNCTIONALITIES**
+##**FUNCTIONALITIES**
 
 1) Main Timer— a continuous timer that can be paused and restarted without fail. This timer will switch between
    exercises when the time for a given exercise is up. This is the main functionality of the program.
