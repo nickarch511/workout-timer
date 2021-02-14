@@ -4,7 +4,7 @@ Welcome to my workout timer project!
 
 This was a fun little coding project I started right after taking my first computer science course (CMSC131). 
 
-This timer is equipped with a GUI that allows a use to input a workout manually, or navigate to a text
+This timer is equipped with a GUI that allows a user to input a workout manually, or navigate to a text
 file of a given form that would do this. Check out some of the pre-defined workouts for more info 
 on the format of input files.
 
