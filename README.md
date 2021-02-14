@@ -24,6 +24,6 @@ Please watch this video for a functionality demonstration: https://youtu.be/-JzX
    will parse through these files and input the workout
    
    
-**Check out my code if you would like to see how this was implemented! Keep in mind, this was one of my first projects :D **
+**Check out my code if you would like to see how this was implemented! Keep in mind, this was one of my first projects :D**
 
 Note: the code for the GUI is in WorkoutTimer/src/visual (this is the majority of the program!!) and all other code can be found in WorkoutTime/src/code
