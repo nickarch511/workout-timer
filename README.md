@@ -1,6 +1,4 @@
-@settings {
-   font-size = 100;
-}
+
 **INTRODUCTION** 
 
 Welcome to my workout timer project!
