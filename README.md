@@ -8,9 +8,11 @@ This timer is equipped with a GUI that allows a use to input a workout manually,
 file of a given form that would do this. Check out some of the pre-defined workouts for more info 
 on the format of input files.
 
+Please watch this video for a functionality demonstration: https://youtu.be/-JzXZLBemjU
+
 *** FUNCTIONALITIES ***
 
-1) Main Timer— a continous timer that can be paused and restarted without fail. This timer will switch between
+1) Main Timer— a continuous timer that can be paused and restarted without fail. This timer will switch between
    exercises when the time for a given exercise is up. This is the main functionality of the program.
    
 2) Sound— this timer will beep at the end of each exercise and a long beep will sound at the end of the entire workout
